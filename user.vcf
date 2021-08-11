@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Aishwarya;;;;
+FN: Aishwarya Venkatramani
+ORG:Revolution Swimming Academy;
+TITLE:Chief Executive Officer
+EMAIL;type=INTERNET;type=WORK;type=pref:ash.venkat@icloud.com
+TEL;type=WORK;type=VOICE:+971508021550
+item1.ADR;type=WORK;type=pref:;;Star International School, Al Twar 2
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.instagram.com/rsts.academy/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
